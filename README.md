@@ -44,9 +44,3 @@ This repository contains **Riddle #2** for participants.
 - Submit your guess using the official **Google Form** provided by to you:  
   👉 [Submit Your Answer Here](https://forms.gle/FwXraed81NmN34618)  
 
----
-
-## 🙌 Credits
-
-- Riddle Author: *You!*  
-- Maintainers: *Talent Hunt Organizers*
